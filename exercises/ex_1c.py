@@ -14,7 +14,7 @@ def ex_1c():
     plt.plot(x, y2, color='r', linestyle='--', label='sen(x + 3)')
 
     # Display's options
-    plt.title('Ejercicio 1a')
+    plt.title('Ejercicio 1c')
     plt.xlabel('x')
     plt.ylabel('y')
     plt.legend()
